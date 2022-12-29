@@ -1,0 +1,39 @@
+.table_view {
+  display: flex;
+  justify-content: center;
+  padding: .75em;
+}
+
+table {
+  width: 100%;
+}
+
+table th {
+  padding: .25em .5em;
+  border-right: 1px solid black;
+  background-color: burlywood;
+  font-size: 1.35rem;
+}
+table th:last-child {
+  border: 0;
+}
+
+table tr {
+  border: 1px solid black;
+}
+
+table tr:nth-child(even) {
+  background-color:rgba(169, 169, 169, 0.575);
+}
+
+table td {  
+  padding: .25em .5em;
+  border-right: 1px solid black;
+}
+table td:first-child {
+  text-align: center;
+}
+table td:last-child {
+  border: 0;
+  text-align: right;
+}

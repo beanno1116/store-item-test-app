@@ -1,0 +1,98 @@
+export const items = [
+  {
+    storeID: 1,
+    upc: '123',
+    description: 'Candy canes',
+    price: 2.99,
+  },
+  {
+    storeID: 1,
+    upc: '345',
+    description: 'Grapes',
+    price: 0.99,
+  },
+  {
+    storeID: 1,
+    upc: '567',
+    description: 'Doritos',
+    price: 4.99,
+  },
+  {
+    storeID: 1,
+    upc: '890',
+    description: 'Bagels',
+    price: 3.49,
+  },
+  {
+    storeID: 2,
+    upc: '123',
+    description: 'Pickles',
+    price: 3.19,
+  },
+  {
+    storeID: 2,
+    upc: '4563',
+    description: 'Hot Dogs',
+    price: 6.99,
+  },
+  {
+    storeID: 2,
+    upc: '1765',
+    description: 'Coffee',
+    price: 8.99,
+  },
+  {
+    storeID: 2,
+    upc: '345',
+    description: 'Milk',
+    price: 2.19,
+  },
+  {
+    storeID: 3,
+    upc: '643',
+    description: 'Beer',
+    price: 9.99,
+  },
+  {
+    storeID: 3,
+    upc: '7543',
+    description: 'Coke',
+    price: 1.99,
+  },
+  {
+    storeID: 3,
+    upc: '3453',
+    description: 'Biscuits',
+    price: 3.29,
+  },
+  {
+    storeID: 3,
+    upc: '7456',
+    description: 'Oranges',
+    price: 3.99,
+  },
+  {
+    storeID: 4,
+    upc: '8654',
+    description: 'Dog treats',
+    price: 7.99,
+  },
+  {
+    storeID: 4,
+    upc: '37856',
+    description: 'Cereal',
+    price: 3.29,
+  },
+  {
+    storeID: 4,
+    upc: '58956',
+    description: 'Wine',
+    price: 19.99,
+  },
+  {
+    storeID: 4,
+    upc: '4865',
+    description: 'Popcorn',
+    price: 4.59,
+  },
+];
